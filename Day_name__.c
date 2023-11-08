@@ -27,6 +27,10 @@ int main()
     {
         printf("Saturday");
     }
+    else if(i==7)
+    {
+        printf("Sunday");
+    }
     else
     {
         printf("Invalid input");
